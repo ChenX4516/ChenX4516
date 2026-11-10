@@ -1,16 +1,14 @@
-## Hi there 👋
+# XiaoChen
 
-<!--
-**ChenX4516/ChenX4516** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Name:**&#8203; XiaoChen
+**Email:**&#8203; 26302313@muc.edu.cn
 
-Here are some ideas to get you started:
+**Institution:**&#8203; Minzu University of China (中央民族大学)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Research interests:**&#8203; Large Language Models, Model Fine-tuning, Traditional Chinese Medicine (TCM) NLP
+
+---
+
+This profile is maintained for academic identification purposes.
+
+Contact: 26302313@muc.edu.cn
